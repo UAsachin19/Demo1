@@ -21,6 +21,7 @@ class Calculator
 		
 		result = num1 - num2;
 		System.out.println ("Subtraction of" + num1 + " - " + num2 +" : "+ result);
+System.out.println ("SachinTest");
 	}
 		void div()
 		{
